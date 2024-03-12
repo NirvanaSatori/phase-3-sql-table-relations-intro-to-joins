@@ -1,5 +1,6 @@
 # SQL Joins
 
+
 ## Learning Goals
 
 - Describe how SQL join clauses combine data from multiple tables based on a
